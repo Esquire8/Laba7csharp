@@ -1,0 +1,10 @@
+C:\Users\111\source\repos\laba7\laba7\bin\Debug\laba7.exe.config
+C:\Users\111\source\repos\laba7\laba7\bin\Debug\laba7.exe
+C:\Users\111\source\repos\laba7\laba7\bin\Debug\laba7.pdb
+C:\Users\111\source\repos\laba7\laba7\obj\Debug\laba7.csproj.AssemblyReference.cache
+C:\Users\111\source\repos\laba7\laba7\obj\Debug\laba7.Form1.resources
+C:\Users\111\source\repos\laba7\laba7\obj\Debug\laba7.Properties.Resources.resources
+C:\Users\111\source\repos\laba7\laba7\obj\Debug\laba7.csproj.GenerateResource.cache
+C:\Users\111\source\repos\laba7\laba7\obj\Debug\laba7.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\laba7\laba7\obj\Debug\laba7.exe
+C:\Users\111\source\repos\laba7\laba7\obj\Debug\laba7.pdb
